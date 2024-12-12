@@ -1,0 +1,7 @@
+{
+    "HDFS_HOST": "your-hdfs-host",
+    "HDFS_PORT": 9870,
+    "CSV_FILE_PATH": "/path/to/csvfile.csv",
+    "FITS_FOLDER_PATH": "/path/to/fits/folder",
+    "LOCAL_SAVE_DIR": "./fits_files"
+}
